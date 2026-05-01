@@ -2,6 +2,9 @@
 
 A smart task manager built with HTML, CSS, and JavaScript.
 
+## 📸 Preview
+![Life OS](screenshot.png)
+
 ## Features
 - Add, edit, delete tasks
 - Drag & drop reorder
